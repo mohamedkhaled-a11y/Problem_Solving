@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704465147 source:f:\ds\blacksquare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

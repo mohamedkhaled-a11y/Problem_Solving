@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704460703 source:f:\ds\police recruits\main.c
+	<stdio.h>
+	<stdlib.h>
+

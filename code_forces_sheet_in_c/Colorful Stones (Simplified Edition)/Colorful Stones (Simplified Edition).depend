@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704992768 source:f:\ds\colorful stones (simplified edition)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
